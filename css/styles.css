@@ -1,6 +1,7 @@
 body{background-color: #fcebb6;
 color: #221811;
 font-family: Verdana, Arial, sans-serif;
+background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYWDN_02J3FY5qfIZFLhrxLoz0cP8X-zMym9wuiAPQnoUvVDDh&s");
 }
 header{
     background-color: #d2b48c;
@@ -18,6 +19,7 @@ footer{
     text-align: center;
 }
 #wrapper{
+    margin-top: 4em;
     margin-left: auto;
     margin-right: auto;
     width: 80%;
