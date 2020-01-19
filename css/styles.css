@@ -30,5 +30,14 @@ footer{
 }
 img{
 padding-top: 10px;
-
+}
+nav a{ color: azure;
+background-color: rgb(223, 52, 209);
+padding: 10px;
+float: right;
+border-right: 2px solid #ffffff;
+}
+nav a:hover{
+    color: goldenrod;
+    background-color: darkslategrey;
 }
